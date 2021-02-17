@@ -1,0 +1,34 @@
+
+
+.box{
+background-color: cornflowerblue;
+
+height: 500px;
+width: 500px;
+
+margin: 50px;
+
+border: 2px solid red;
+
+outline: 4px solid blue;
+}
+
+.box__item1{
+
+    background-color: green;
+    color: black;
+
+    padding: 50px;
+    margin: 20px;
+}
+
+.box__item2{
+
+    margin: 10px 20px;
+    border-radius: 20px;
+    background-color: saddlebrown;
+    padding: 10px;
+}
+
+
+
