@@ -1,0 +1,73 @@
+
+
+/* Selectores de etiqueta */
+p{
+    color: red;
+}
+
+
+h1{
+    color: blue;
+}
+
+
+/*Selectores de clase */
+
+
+.title{
+    color: rgb(128, 0, 128);
+}
+
+.text{
+    color: blueviolet;
+}
+
+/* Selectores de id */
+
+#subtitle {
+    color: chartreuse;
+}
+
+#text{
+    color: coral;
+}
+
+
+
+[href]{
+    color: red;
+}
+
+
+[class~="verde"]{
+    color: green;
+}
+
+[class|="verde"]{
+    color: blue;
+}
+
+[class^="rojo"]{
+    color: red;
+}
+
+
+[class$="rojo"]{
+    color: cornflowerblue;
+}
+
+[class*="rojo"]{
+    color: red;
+}
+
+[class*="rojo"]{
+    color: red;
+}
+
+
+[class*="verde"]{
+    color: green;
+}
+
+
+
