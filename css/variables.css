@@ -1,0 +1,15 @@
+:root{
+
+    --color: green;
+
+    --border: 2px solid black;
+}
+
+
+
+
+.inline{
+
+    background-color: var(--color);
+    border: var(--border);
+}
