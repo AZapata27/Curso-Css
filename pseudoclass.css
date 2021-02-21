@@ -1,0 +1,28 @@
+
+
+.link:link{
+    color: red;
+}
+
+.link:visited{
+    color: violet;
+}
+
+.link.active{
+    color: cyan;
+    background-color: tomato;
+
+}
+
+.link.active{
+    color: cyan;
+    background-color: tomato;
+
+}
+
+
+.link.active{
+    color: cyan;
+    background-color: tomato;
+
+}
