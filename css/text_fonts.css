@@ -1,0 +1,23 @@
+
+
+.title{
+
+    font-family: sans-serif;
+
+    font-size: 10vmin;
+
+    text-transform: capitalize;
+
+
+}
+
+.paragraph{
+/* 
+    text-align: center; */
+    font-weight: bold;
+ text-indent: 3vmin;   
+    
+}
+.link{
+    text-decoration: none;
+}
