@@ -1,0 +1,56 @@
+.list{
+
+    list-style-type: none;
+
+}
+
+
+.list__item::before{
+
+
+
+
+    content: " ";
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    background-image: url(/assets/images/check.png);
+    background-position: 0 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-right: 1em;    
+    
+}
+
+
+
+
+
+
+/* 
+.table{
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+} */
+
+
+.table, .table__data , .table__head{
+ 
+    border-spacing: 40px;
+    border: 1px solid black;
+
+    border-collapse: collapse;
+
+    empty-cells: hide;
+}
+
+
+.table-container{
+
+    overflow-x: auto;
+
+}
+
+
+
