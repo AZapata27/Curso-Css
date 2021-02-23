@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: lightcoral;
+    padding: 10px;
+
+}
+
+.item1, .item2, .item3{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    margin: 1em;
+    background-color: lightseagreen ;
+    padding: 10px;
+
+}
